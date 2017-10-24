@@ -15,4 +15,17 @@ border-bottom: solid 15px transparent;
 border-right: solid 20px rgb(149,158,155);
 }
 
+.memo{
+padding: 0.5em 1em;
+margin: 2em 0;
+color: #232323;
+background: #fff8e8;
+border-left: solid 10px #ffc06e;
+
+}
+.memo p{
+
+margin: 0;
+padding: 0;
+}
 
