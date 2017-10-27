@@ -1,5 +1,8 @@
 table.highlight tr:nth-child(2n+1) td {
-    background: #f5fffa;
+    background: #114514;
+}
+table.highlight tr:nth-child(2n) td {
+    backgroumd: #810931;
 }
 h1{
 position: relative;
