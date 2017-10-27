@@ -1,3 +1,6 @@
+table.highlight tr:nth-child(2n+1) td {
+    background: #f5fffa;
+}
 h1{
 position: relative;
 padding: 0.5em;
