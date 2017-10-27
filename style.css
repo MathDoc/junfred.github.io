@@ -1,7 +1,7 @@
 table.highlight tr:nth-child(2n+1) td {
     background: #114514;
 }
-table.highlight tr:nth-child(2n) td {
+table.highlight tr:nth-child(2n+2) td {
     backgroumd: #810931;
 }
 h1{
