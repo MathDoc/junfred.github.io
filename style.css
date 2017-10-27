@@ -1,8 +1,9 @@
 table.highlight tr:nth-child(2n+1) td {
-    background: #114514;
+    background: #f5fffa;
 }
-table.highlight tr:nth-child(2n+2) td {
-    backgroumd: #810931;
+
+table.highlight tr td,table.highlight tr td span {
+    font-weight:bold;
 }
 h1{
 position: relative;
